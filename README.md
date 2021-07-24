@@ -61,3 +61,5 @@ Por ej. Para utilizar backtraking, dinamic_selection y verificar si hay memory l
 valgrind --show-reachable=yes --leak-check=full ./knapsack -dst -f input/random-5.in
 
 Luego de realizar todas las pruebas, ejecutar "make clean" para limpiar los ejecutables creados durante la compilacion.
+
+## Materia: Algoritmos y estructura de datos 2
